@@ -1,5 +1,1 @@
-this only works for ARM64 devices
-
-
-
-proudly written in python 
+this will only work for macos or ARM64 devices, i know... its sad, but i will figure out a way.
